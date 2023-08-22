@@ -1,0 +1,2 @@
+# _printf
+  This Repo has has all the code necessary for our (IBRAHIM MORKETA and Marwan  e Nouh) custom function called _printf(). It is a mini-version of C Language  function printf() from stdio.h, and our function _printf() attempts to repli  cate the exact same process as the C function printf(). This project was com pleted as a part of the curriculum for a software development program
